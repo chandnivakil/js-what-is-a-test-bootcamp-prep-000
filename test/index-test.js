@@ -24,4 +24,4 @@ describe('what-is-a-test', () => {
 })
 */
 
-// finished "What is a test section
+// finished "What is a Test" section
